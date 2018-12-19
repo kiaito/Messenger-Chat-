@@ -7,7 +7,7 @@
 
 A Messenger built in The Java Language.
 
-<img src="https://github.com/kiaito/Messenger-Chat-/blob/master/clientimg.png?raw=true" width="45%"/> 
-<img src="https://github.com/kiaito/Messenger-Chat-/blob/master/serverimg.png?raw=true" width="45%"/> <br>
+<img src="https://github.com/kiaito/Messenger-Chat-/blob/master/clientimg.png?raw=true" width="40%"/> 
+<img src="https://github.com/kiaito/Messenger-Chat-/blob/master/serverimg.png?raw=true" width="40%"/> <br>
                                                                                             
 <img src="https://github.com/kiaito/Messenger-Chat-/blob/master/chatproimg.png?raw=true"> <br>
